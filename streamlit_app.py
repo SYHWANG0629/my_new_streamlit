@@ -45,4 +45,4 @@ if predict_button:
 
     st.metric("예측 보험료", pred[0])
 
-st.image('C:\workspace\cat.png')
+st.image('https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjBfMjYy%2FMDAxNjY2MjQ2MDE1MDgz.BcP5leFdDM--82Y2IZkK4JJOx57dM8mjsb6rc13tKXIg.oDoVXW9kQ4nPp8oI8IL-pTtqEbBGeDWULAuOJj1f1x0g.PNG.lunancake%2F18.png&type=sc960_832')
